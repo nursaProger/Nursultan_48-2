@@ -23,7 +23,7 @@ class Person:
     def __str__(self):
         return f'Имя: {self.name}, Возраст: {self.age}, Город: {self.city}'
 
-
+        
 
 
 
